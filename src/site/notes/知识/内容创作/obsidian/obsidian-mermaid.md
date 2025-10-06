@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-mermaid/","title":"Mermaid：让枯燥的文字秒变炫酷图表","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-mermaid/","title":"Mermaid","tags":["doc","obsidian"],"noteIcon":""}
 ---
 
 ## 介绍
