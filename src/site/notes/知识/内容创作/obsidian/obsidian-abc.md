@@ -3,9 +3,6 @@
 ---
 
 
-```table-of-contents
-```
-
 > [ABC记谱法](https://zh.wikipedia.org/zh-hans/ABC%E8%AE%B0%E8%B0%B1%E6%B3%95)是19世纪由克里斯·瓦尔莎发明的一种记谱法。
 
 ## 曲谱
