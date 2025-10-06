@@ -46,7 +46,7 @@ flowchart LR
 
 #### 时序图
 
-``` mermaid
+```mermaid
 sequenceDiagram
     autonumber
     Alice->>John: Hello John, how are you?
@@ -61,7 +61,7 @@ sequenceDiagram
 
 #### 状态流图
 
-``` mermaid
+```mermaid
 stateDiagram
     direction LR
     [*] --> A
@@ -76,7 +76,7 @@ stateDiagram
 
 #### 实体关系图
 
-``` mermaid
+```mermaid
 ---
 title: Order example
 ---
@@ -88,7 +88,7 @@ erDiagram
 
 #### 类图
 
-``` mermaid
+```mermaid
 ---
 title: Animal example
 ---
@@ -119,7 +119,7 @@ classDiagram
 
 #### 消息结构图
 
-``` mermaid
+```mermaid
 ---
 title: "TCP Packet"
 ---
@@ -147,7 +147,7 @@ packet-beta
 
 #### 架构图
 
-``` mermaid
+```mermaid
 architecture-beta
     group api(cloud)[API]
 
@@ -163,7 +163,7 @@ architecture-beta
 
 #### Git分支图
 
-``` mermaid
+```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
       gitGraph
         commit
@@ -213,7 +213,7 @@ architecture-beta
 
 #### 思维导图
 
-``` mermaid
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -235,7 +235,7 @@ mindmap
 
 #### 时间线
 
-``` mermaid
+```mermaid
 timeline
         title MermaidChart 2023 Timeline
         section 2023 Q1 <br> Release Personal Tier
@@ -250,7 +250,7 @@ timeline
 
 #### 甘特图
 
-``` mermaid
+```mermaid
 gantt
     apple :a, 2017-07-20, 4d
     banana :crit, b, 2017-07-23, 1d
@@ -260,7 +260,7 @@ gantt
 
 #### 看板
 
-``` mermaid
+```mermaid
 ---
 config:
   kanban:
@@ -282,7 +282,7 @@ kanban
 
 #### 饼图
 
-``` mermaid
+```mermaid
 pie
     title Pie Chart
     "Dogs" : 38
@@ -292,7 +292,7 @@ pie
 
 #### 四象限图
 
-``` mermaid
+```mermaid
 quadrantChart
     title Reach and engagement of campaigns
     x-axis Low Reach --> High Reach
@@ -311,7 +311,7 @@ quadrantChart
 
 #### 折线图和柱状图
 
-``` mermaid
+```mermaid
 xychart-beta
     title "Sales Revenue"
     x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
@@ -322,7 +322,7 @@ xychart-beta
 
 #### 桑基图
 
-``` mermaid
+```mermaid
 ---
 config:
   sankey:
