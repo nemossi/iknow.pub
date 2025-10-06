@@ -88,7 +88,7 @@ erDiagram
 
 #### 类图
 
-```mermaid
+``` mermaid
 ---
 title: Animal example
 ---
