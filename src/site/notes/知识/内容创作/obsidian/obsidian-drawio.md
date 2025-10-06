@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-drawio/","title":"obsidian-drawio","tags":["doc","drawio"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-drawio/","title":"drawio","tags":["doc","drawio"],"noteIcon":""}
 ---
 
 
 > [obsidian-drawio](https://github.com/zapthedingbat/drawio-obsidian)
-
-```table-of-contents
-```
 
 ## 示意图
 

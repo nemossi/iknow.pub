@@ -2,17 +2,16 @@
 {"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian/","title":"obsidian","tags":["doc","obsidian"],"noteIcon":""}
 ---
 
-> [Obsidian](https://obsidian.md)是一个专业的个人笔记及知识管理软件。
+> [Obsidian](https://obsidian.md)是一款专业、免费的知识管理和笔记软件。它以管理本地markdown文件为基础，提供极为丰富的扩展能力
 
 ## 基础插件
 
 |                                 插件                                 | 主要功能 | 案例介绍 |
 | :----------------------------------------------------------------: | :--: | :--: |
-|                           obsidian-brat                            |      |      |
 |  [obsidian-templater](https://github.com/SilentVoid13/Templater)   |  模板  |  略   |
-| [obsidian-trash](https://github.com/proog/obsidian-trash-explorer) | 回收站  |  略   |
-|  [obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt)   | 保险箱  |  略   |
-|                                                                    |      |      |
+| [obsidian-trash](https://github.com/proog/obsidian-trash-explorer) | 回收站  |      |
+|  [obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt)   | 保险箱  | 加密笔记 |
+|                           obsidian-brat                            |      |      |
 
 ## 时间管理
 
@@ -64,6 +63,17 @@
 |      [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)      | 数据视图  |          略          |
 |           [obsidian-charts](https://github.com/phibr0/obsidian-charts)           | 数据可视化 | [[知识/内容创作/obsidian/obsidian-charts\|obsidian-charts]] |
 | [obsidian-contribution](https://github.com/vran-dev/obsidian-contribution-graph) | 活跃热力图 |          略          |
+
+## 笔记分享
+
+|                                     插件                                      |  主要功能   | 案例介绍 |
+| :-------------------------------------------------------------------------: | :-----: | :--: |
+|     [export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf)      | 导出pdf文件 |  略   |
+|   [export-html](https://github.com/KosmosisDire/obsidian-webpage-export)    |  导出网页   |  略   |
+| [local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | 本地API接口 |  略   |
+|          [obsidian-git](https://github.com/Vinzent03/obsidian-git)          | 同步Git仓库 |  略   |
+|       [remotely-save](https://github.com/remotely-save/remotely-save)       | 同步远程存储  |  略   |
+|   [digital-garden](https://github.com/oleeskild/obsidian-digital-garden)    | 数字花园发布  |  略   |
 
 ## 笔记分享
 

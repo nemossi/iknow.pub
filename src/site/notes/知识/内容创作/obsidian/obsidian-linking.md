@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-linking/","title":"obsidian-linking","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-linking/","title":"双向链接","tags":["doc","obsidian"],"noteIcon":""}
 ---
 
 > [Obsidian](https://obsidian.md)
