@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-tikz/","tags":["doc","obsidian","tikz"]}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-tikz/","title":"obsidian-tikz","tags":["doc","obsidian","tikz"],"noteIcon":""}
 ---
 
 > [obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax)

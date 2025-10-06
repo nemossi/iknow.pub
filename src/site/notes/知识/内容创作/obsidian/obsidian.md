@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian/","title":"Obsidian","tags":["doc","obsidian"]}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian/","title":"obsidian","tags":["doc","obsidian"],"noteIcon":""}
 ---
 
 > [Obsidian](https://obsidian.md)是一个专业的个人笔记及知识管理软件。

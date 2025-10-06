@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-smiles/","tags":["doc","obsidian"]}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-smiles/","title":"obsidian-smiles","tags":["doc","obsidian"],"noteIcon":""}
 ---
 
 

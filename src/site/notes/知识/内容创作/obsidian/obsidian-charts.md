@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-charts/","tags":["doc","obsidian"]}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-charts/","title":"obsidian-charts","tags":["doc","obsidian"],"noteIcon":""}
 ---
 
 

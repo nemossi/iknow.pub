@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-drawio/","title":"标题","tags":["doc","drawio"]}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-drawio/","title":"obsidian-drawio","tags":["doc","drawio"],"noteIcon":""}
 ---
 
 

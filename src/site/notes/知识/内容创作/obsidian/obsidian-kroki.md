@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-kroki/","tags":["doc","obsidian"]}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian-kroki/","title":"obsidian-kroki","tags":["doc","obsidian"],"noteIcon":""}
 ---
 
 
