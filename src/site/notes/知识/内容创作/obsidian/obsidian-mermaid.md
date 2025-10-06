@@ -25,7 +25,7 @@ Mermaid的特点是：
 
 #### 流程图
 
-``` mermaid
+```mermaid
 flowchart LR
     subgraph subgraph1
         direction TB
