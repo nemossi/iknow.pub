@@ -4,10 +4,6 @@
 
 > [Obsidian](https://obsidian.md)
 
-```table-of-contents
-```
-
-
 ## 内部链接
 
 内部链接`[[文件名]]`可链接到知识库的另一篇笔记。

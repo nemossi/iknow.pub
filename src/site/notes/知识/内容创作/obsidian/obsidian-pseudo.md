@@ -3,9 +3,6 @@
 ---
 
 
-```table-of-contents
-```
-
 ## 伪代码
 
 ```pseudo

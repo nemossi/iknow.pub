@@ -4,9 +4,6 @@
 
 > [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
 
-```table-of-contents
-```
-
 ## 状态
 
 - [ ] 未开始

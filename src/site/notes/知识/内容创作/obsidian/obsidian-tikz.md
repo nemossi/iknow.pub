@@ -4,9 +4,6 @@
 
 > [obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax)
 
-```table-of-contents
-```
-
 ## 函数
 
 ```tikz
