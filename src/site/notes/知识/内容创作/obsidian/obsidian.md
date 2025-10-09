@@ -23,31 +23,31 @@
 
 ## 公式符号
 
-|                                   插件                                   | 主要功能  |        案例介绍         |
-| :--------------------------------------------------------------------: | :---: | :-----------------: |
-| [obsidian-emoji](https://github.com/phibr0/obsidian-emoji-shortcodes)  |  表情   | [[知识/内容创作/obsidian/obsidian-emoji\|obsidian-emoji]]  |
-|          [obsidian-iconic](https://github.com/gfxholo/iconic)          |  图标   | [[知识/内容创作/obsidian/obsidian-iconic\|obsidian-iconic]] |
-| [obsidian-latex](https://github.com/artisticat1/obsidian-latex-suite)  |  公式   | [[知识/内容创作/obsidian/obsidian-latex\|obsidian-latex]]  |
-| [obsidian-mdchem](https://github.com/artisticat1/obsidian-latex-suite) | 化学分子式 | [[知识/内容创作/obsidian/obsidian-mhchem\|obsidian-mhchem]] |
-|     [obsidian-smiles](https://github.com/Acylation/obsidian-chem)      | 化学结构式 | [[知识/内容创作/obsidian/obsidian-smiles\|obsidian-smiles]] |
-|    [obsidian-tikz](https://github.com/artisticat1/obsidian-tikzjax)    | 科学文献图 |  [[知识/内容创作/obsidian/obsidian-tikz\|obsidian-tikz]]  |
+|                                   插件                                   | 主要功能  |     案例介绍      |
+| :--------------------------------------------------------------------: | :---: | :-----------: |
+| [obsidian-emoji](https://github.com/phibr0/obsidian-emoji-shortcodes)  |  表情   | [[知识/内容创作/obsidian/ob-emoji\|ob-emoji]]  |
+|          [obsidian-iconic](https://github.com/gfxholo/iconic)          |  图标   | [[知识/内容创作/obsidian/ob-iconic\|ob-iconic]] |
+| [obsidian-latex](https://github.com/artisticat1/obsidian-latex-suite)  |  公式   | [[知识/内容创作/obsidian/ob-latex\|ob-latex]]  |
+| [obsidian-mdchem](https://github.com/artisticat1/obsidian-latex-suite) | 化学分子式 | [[知识/内容创作/obsidian/ob-mhchem\|ob-mhchem]] |
+|     [obsidian-smiles](https://github.com/Acylation/obsidian-chem)      | 化学结构式 | [[知识/内容创作/obsidian/ob-smiles\|ob-smiles]] |
+|    [obsidian-tikz](https://github.com/artisticat1/obsidian-tikzjax)    | 科学文献图 |  [[知识/内容创作/obsidian/ob-tikz\|ob-tikz]]  |
 
 ## 图形展示
 
 |                                       插件                                       |  主要功能   |          案例介绍           |
 | :----------------------------------------------------------------------------: | :-----: | :---------------------: |
 | [obsidian-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas)  |   白板    |            略            |
-| [obsidian-excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) |   草绘图   | [[知识/内容创作/obsidian/obsidian-excalidraw\|obsidian-excalidraw]] |
-|      [obsidian-drawio](https://github.com/zapthedingbat/drawio-obsidian)       | 流程图、架构图 |   [[知识/内容创作/obsidian/obsidian-drawio\|obsidian-drawio]]   |
-|          [obsidian-kroki](https://github.com/gregzuro/obsidian-kroki)          |  图形集萃   |   [[知识/内容创作/obsidian/obsidian-kroki\|obsidian-kroki]]    |
-|       [obsidian-pseudo](https://github.com/ytliu74/obsidian-pseudocode)        |   伪代码   |   [[知识/内容创作/obsidian/obsidian-pseudo\|obsidian-pseudo]]   |
-|      [obsidian-abc](https://github.com/abcjs-music/obsidian-plugin-abcjs)      |   五线谱   |    [[知识/内容创作/obsidian/obsidian-abc\|obsidian-abc]]     |
+| [obsidian-excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) |   草绘图   | [[知识/内容创作/obsidian/ob-excalidraw\|ob-excalidraw]] |
+|      [obsidian-drawio](https://github.com/zapthedingbat/drawio-obsidian)       | 流程图、架构图 |   [[知识/内容创作/obsidian/ob-drawio\|ob-drawio]]   |
+|          [obsidian-kroki](https://github.com/gregzuro/obsidian-kroki)          |  图形集萃   |   [[知识/内容创作/obsidian/ob-kroki\|ob-kroki]]    |
+|       [obsidian-pseudo](https://github.com/ytliu74/obsidian-pseudocode)        |   伪代码   |   [[知识/内容创作/obsidian/ob-pseudo\|ob-pseudo]]   |
+|      [obsidian-abc](https://github.com/abcjs-music/obsidian-plugin-abcjs)      |   五线谱   |    [[知识/内容创作/obsidian/ob-abc\|ob-abc]]     |
 
 ## 时间管理
 
 |                                        插件                                         | 主要功能 |        案例介绍        |
 | :-------------------------------------------------------------------------------: | :--: | :----------------: |
-|     [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)      |  任务  | [[知识/内容创作/obsidian/obsidian-tasks\|obsidian-tasks]] |
+|     [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)      |  任务  | [[知识/内容创作/obsidian/ob-tasks\|ob-tasks]] |
 |                                [obsidian-kanban]()                                |  看板  |         略          |
 | [obsidian-calendar](https://github.com/obsidian-community/obsidian-full-calendar) | 日程表  |         略          |
 |     [obsidian-lunar](https://github.com/DevilRoshan/obsidian-lunar-calendar)      |  日历  |         略          |
@@ -59,7 +59,7 @@
 |                                        插件                                        | 主要功能  |        案例介绍         |
 | :------------------------------------------------------------------------------: | :---: | :-----------------: |
 |      [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)      | 数据视图  |          略          |
-|           [obsidian-charts](https://github.com/phibr0/obsidian-charts)           | 数据可视化 | [[知识/内容创作/obsidian/obsidian-charts\|obsidian-charts]] |
+|           [obsidian-charts](https://github.com/phibr0/obsidian-charts)           | 数据可视化 | [[知识/内容创作/obsidian/ob-charts\|ob-charts]] |
 | [obsidian-contribution](https://github.com/vran-dev/obsidian-contribution-graph) | 活跃热力图 |          略          |
 
 ## 内容形式
@@ -67,7 +67,7 @@
 |                                  插件                                  | 主要功能 |        案例介绍         |
 | :------------------------------------------------------------------: | :--: | :-----------------: |
 | [obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) | 旁注笔记 |          略          |
-|                              幻灯片（核心插件）                               | 幻灯片  | [[知识/内容创作/obsidian/obsidian-slides\|obsidian-slides]] |
+|                              幻灯片（核心插件）                               | 幻灯片  | [[知识/内容创作/obsidian/ob-slides\|ob-slides]] |
 
 ## 导出笔记
 
@@ -82,7 +82,7 @@
 | :---------------------------------------------------------------------------: | :---------: | :--------------------: |
 |           [obsidian-git](https://github.com/Vinzent03/obsidian-git)           |    Git同步    |           略            |
 |        [remotely-save](https://github.com/remotely-save/remotely-save)        |  WebDAV同步   |           略            |
-| [obsidian-syncthing](https://github.com/LBF38/obsidian-syncthing-integration) | Syncthing同步 | [[知识/内容创作/obsidian/obsidian-syncthing\|obsidian-syncthing]] |
+| [obsidian-syncthing](https://github.com/LBF38/obsidian-syncthing-integration) | Syncthing同步 | [[知识/内容创作/obsidian/ob-syncthing\|ob-syncthing]] |
 
 
 ## 发布笔记
