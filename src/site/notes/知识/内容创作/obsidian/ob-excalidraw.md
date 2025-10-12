@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-excalidraw/","title":"Excalidraw","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-excalidraw/","title":"Excalidraw","tags":["obsidian","内容创作"],"noteIcon":""}
 ---
 
 

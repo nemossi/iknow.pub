@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-tasks/","title":"obsidian-tasks","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-tasks/","title":"obsidian-tasks","tags":["obsidian","内容创作"],"noteIcon":""}
 ---
 
 > [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)

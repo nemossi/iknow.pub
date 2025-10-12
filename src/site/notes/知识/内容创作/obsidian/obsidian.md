@@ -1,32 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian/","title":"Obsidian","tags":["内容创作","obsidian","markdown"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian/","title":"Obsidian","tags":["内容创作","obsidian"],"noteIcon":""}
 ---
 
 > [Obsidian](https://obsidian.md)是一款专业、免费的知识管理和笔记软件，它以管理本地markdown文件为基础，提供丰富的扩展能力和活跃的社区生态。
 
-## 基础插件
+## 界面增强
 
-|                                 插件                                 | 主要功能  |    案例介绍    |
-| :----------------------------------------------------------------: | :---: | :--------: |
-|  [obsidian-templater](https://github.com/SilentVoid13/Templater)   |  模板   |   定义笔记模板   |
-| [obsidian-trash](https://github.com/proog/obsidian-trash-explorer) |  回收站  |   浏览回收站    |
-|  [obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt)   |  保险箱  |    加密笔记    |
-|   [obsidian-brat](https://github.com/TfTHacker/obsidian42-brat)    | 插件预发布 | 安装和测试预发布插件 |
+|                                   插件                                    |   主要功能    |    案例介绍     |
+| :---------------------------------------------------------------------: | :-------: | :---------: |
+| [obsidiam-minimal](https://github.com/kepano/obsidian-minimal-settings) | Minimal主题 | 设置Minimal主题 |
+|  [obsidian-style](https://github.com/mgmeyers/obsidian-style-settings)  |  配置界面样式   |   配置界面样式    |
+| [obsidian-css-editor](https://github.com/Zachatoo/obsidian-css-editor)  |   CSS编辑   | 自定义CSS片段编辑  |
+|  [obsidian-modal](https://github.com/likemuuxi/obsidian-modal-opener)   |   模式窗口    |  用模式窗口打开链接  |
 
-## 富文本编辑
+## 仓库增强
 
-|                                   插件                                    |     主要功能      | 案例介绍 |
-| :---------------------------------------------------------------------: | :-----------: | :--: |
-| [obsidian-markdown](https://github.com/PKM-er/obsidian-editing-toolbar) | markdown编辑工具栏 |  略   |
-|      [obsidian-linter](https://github.com/platers/obsidian-linter)      |     语法校正      |  略   |
-| [obsidian-toc](https://github.com/PKM-er/obsidian-floating-toc-plugin)  |      目录       |  略   |
+|                                   插件                                   | 主要功能  |     案例介绍      |
+| :--------------------------------------------------------------------: | :---: | :-----------: |
+|     [obsidian-home](https://github.com/mirnovov/obsidian-homepage)     | 仓库首页  |    定义仓库首页     |
+|          [obsidian-iconic](https://github.com/gfxholo/iconic)          | 目录图标  | [[知识/内容创作/obsidian/ob-iconic\|ob-iconic]] |
+
+## 功能增强
+
+|                                  插件                                  | 主要功能  |    案例介绍    |
+| :------------------------------------------------------------------: | :---: | :--------: |
+|   [obsidian-templater](https://github.com/SilentVoid13/Templater)    |  模板   |   定义笔记模板   |
+|  [obsidian-trash](https://github.com/proog/obsidian-trash-explorer)  |  回收站  |   浏览回收站    |
+|   [obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt)    |  保险箱  |    加密笔记    |
+|    [obsidian-brat](https://github.com/TfTHacker/obsidian42-brat)     | 插件预发布 | 安装和测试预发布插件 |
+| [obsidian-breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) | 链接类型  |   优化知识图谱   |
+
+## Markdown文本
+
+|                                   插件                                    |    主要功能    |      案例介绍       |
+| :---------------------------------------------------------------------: | :--------: | :-------------: |
+| [obsidian-markdown](https://github.com/PKM-er/obsidian-editing-toolbar) | markdown编辑 | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
+|      [obsidian-linter](https://github.com/platers/obsidian-linter)      |    语法校正    | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
+| [obsidian-toc](https://github.com/PKM-er/obsidian-floating-toc-plugin)  |     目录     | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
+|                                    -                                    |     提示     | [[知识/内容创作/obsidian/ob-callout\|ob-callout]]  |
+|                                    -                                    |     链接     |   [[知识/内容创作/obsidian/ob-link\|ob-link]]   |
 
 ## 公式符号
 
 |                                   插件                                   | 主要功能  |     案例介绍      |
 | :--------------------------------------------------------------------: | :---: | :-----------: |
 | [obsidian-emoji](https://github.com/phibr0/obsidian-emoji-shortcodes)  |  表情   | [[知识/内容创作/obsidian/ob-emoji\|ob-emoji]]  |
-|          [obsidian-iconic](https://github.com/gfxholo/iconic)          |  图标   | [[知识/内容创作/obsidian/ob-iconic\|ob-iconic]] |
 | [obsidian-latex](https://github.com/artisticat1/obsidian-latex-suite)  |  公式   | [[知识/内容创作/obsidian/ob-latex\|ob-latex]]  |
 | [obsidian-mdchem](https://github.com/artisticat1/obsidian-latex-suite) | 化学分子式 | [[知识/内容创作/obsidian/ob-mhchem\|ob-mhchem]] |
 |     [obsidian-smiles](https://github.com/Acylation/obsidian-chem)      | 化学结构式 | [[知识/内容创作/obsidian/ob-smiles\|ob-smiles]] |
@@ -45,14 +63,14 @@
 
 ## 时间管理
 
-|                                        插件                                         | 主要功能 |        案例介绍        |
-| :-------------------------------------------------------------------------------: | :--: | :----------------: |
+|                                        插件                                         | 主要功能 |     案例介绍     |
+| :-------------------------------------------------------------------------------: | :--: | :----------: |
 |     [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)      |  任务  | [[知识/内容创作/obsidian/ob-tasks\|ob-tasks]] |
-|                                [obsidian-kanban]()                                |  看板  |         略          |
-| [obsidian-calendar](https://github.com/obsidian-community/obsidian-full-calendar) | 日程表  |         略          |
-|     [obsidian-lunar](https://github.com/DevilRoshan/obsidian-lunar-calendar)      |  日历  |         略          |
-|       [pomodoro-timer](https://github.com/eatgrass/obsidian-pomodoro-timer)       | 番茄钟  |         略          |
-|                                     日记（核心插件）                                      |  日记  |         略          |
+|                                [obsidian-kanban]()                                |  看板  |      略       |
+| [obsidian-calendar](https://github.com/obsidian-community/obsidian-full-calendar) | 日程表  |      略       |
+|     [obsidian-lunar](https://github.com/DevilRoshan/obsidian-lunar-calendar)      |  日历  |      略       |
+|       [pomodoro-timer](https://github.com/eatgrass/obsidian-pomodoro-timer)       | 番茄钟  |      略       |
+|                                     日记（核心插件）                                      |  日记  |      略       |
 
 ## 数据可视化
 
@@ -78,12 +96,11 @@
 
 ## 多设备漫游
 
-|                                      插件                                       |    主要功能     |          案例介绍          |
-| :---------------------------------------------------------------------------: | :---------: | :--------------------: |
-|           [obsidian-git](https://github.com/Vinzent03/obsidian-git)           |    Git同步    |           略            |
-|        [remotely-save](https://github.com/remotely-save/remotely-save)        |  WebDAV同步   |           略            |
+|                                      插件                                       |    主要功能     |       案例介绍       |
+| :---------------------------------------------------------------------------: | :---------: | :--------------: |
+|           [obsidian-git](https://github.com/Vinzent03/obsidian-git)           |    Git同步    |        略         |
+|        [obsidian-save](https://github.com/remotely-save/remotely-save)        |  WebDAV同步   |        略         |
 | [obsidian-syncthing](https://github.com/LBF38/obsidian-syncthing-integration) | Syncthing同步 | [[知识/内容创作/obsidian/ob-syncthing\|ob-syncthing]] |
-
 
 ## 发布笔记
 

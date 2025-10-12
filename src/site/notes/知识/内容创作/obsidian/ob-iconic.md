@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-iconic/","title":"iconic","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-iconic/","title":"iconic","tags":["obsidian","内容创作"],"noteIcon":""}
 ---
 
 > [obsidian-iconic](https://github.com/gfxholo/iconic)允许为[obsidian](https://obsidian.md)界面元素添加图标和表情作为装饰。
