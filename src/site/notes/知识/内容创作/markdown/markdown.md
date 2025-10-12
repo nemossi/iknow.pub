@@ -20,7 +20,7 @@ Markdown比较适合的创作场景有：
 
 ## 演进
 
-``` mermaid
+```mermaid
 flowchart TD
 
 txt --> rest --> md101 --> cmark --> gfm --> obmd

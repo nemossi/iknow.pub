@@ -29,11 +29,11 @@
 
 | 日期               | 标题                   | 副标题              | 编号                                               |
 | ---------------- | -------------------- | ---------------- | ------------------------------------------------ |
+| 2025-10-13 02:18 | Markdown：从极简主义，到包罗万象 | 写作不必花哨，表达才是灵魂    | [[知识/内容创作/markdown/markdown\|markdown]]       |
 | 2025-10-13 12:00 | Obsidian             | 知识管理和笔记          | [[知识/内容创作/obsidian/obsidian\|obsidian]]       |
 | 2025-10-12 11:11 | 双向链接                 | 建立个人知识图谱         | [[知识/内容创作/obsidian/ob-link\|ob-link]]         |
 | 2025-10-12 11:10 | LaTeX                | 渲染专业、美观的数学公式     | [[知识/内容创作/obsidian/ob-latex\|ob-latex]]       |
 | 2025-10-12 10:18 | obsidian富文本          | Markdown，专注内容的写作 | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
-| 2025-10-12 10:17 | Markdown：从极简主义，到包罗万象 | 写作不必花哨，表达才是灵魂    | [[知识/内容创作/markdown/markdown\|markdown]]       |
 
 { .block-language-dataview}
 
