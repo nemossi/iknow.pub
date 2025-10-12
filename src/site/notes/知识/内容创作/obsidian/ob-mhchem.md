@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-mhchem/","title":"mhchem","tags":["doc","obsidian","latex"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-mhchem/","title":"mhchem","tags":["内容创作","obsidian","latex","mhchem"],"noteIcon":""}
 ---
 
 

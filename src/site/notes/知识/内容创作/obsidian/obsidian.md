@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian/","title":"Obsidian","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/obsidian/","title":"Obsidian","tags":["内容创作","obsidian","markdown"],"noteIcon":""}
 ---
 
 > [Obsidian](https://obsidian.md)是一款专业、免费的知识管理和笔记软件，它以管理本地markdown文件为基础，提供丰富的扩展能力和活跃的社区生态。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-charts/","title":"obsidian-charts","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-charts/","title":"obsidian-charts","tags":["内容创作","obsidian"],"noteIcon":""}
 ---
 
 
@@ -10,7 +10,8 @@
 | ----- | ----- | ----- | ----- |
 | Data1 | 1     | 2     | 3.33  |
 | Data2 | 3     | 2     | 1     |
-| Data3 | 6.7   | 4     | 2     |{ #table}
+| Data3 | 6.7   | 4     | 2     |{ #table}
+
 
 
 ```chart

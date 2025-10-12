@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-shiki/","title":"obsidian-shiki","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-shiki/","title":"obsidian-shiki","tags":["内容创作","obsidian","shiki"],"noteIcon":""}
 ---
 
 

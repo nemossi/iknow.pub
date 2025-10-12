@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-pseudo/","title":"obsidian-pseudo","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-pseudo/","title":"obsidian-pseudo","tags":["内容创作","obsidian","pseudo"],"noteIcon":""}
 ---
 
 

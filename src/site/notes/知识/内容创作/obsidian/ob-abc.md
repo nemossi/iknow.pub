@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-abc/","title":"obsidian-abc","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-abc/","title":"obsidian-abc","tags":["内容创作","obsidian","abc"],"noteIcon":""}
 ---
 
 

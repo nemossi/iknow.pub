@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-latex/","title":"LaTeX","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-latex/","title":"LaTeX","tags":["内容创作","obsidian","latex"],"noteIcon":""}
 ---
 
 

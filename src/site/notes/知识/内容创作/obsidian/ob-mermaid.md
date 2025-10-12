@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-mermaid/","title":"Mermaid","tags":["doc","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/知识/内容创作/obsidian/ob-mermaid/","title":"Mermaid","tags":["内容创作","obsidian","mermaid"],"noteIcon":""}
 ---
 
 ## 介绍
