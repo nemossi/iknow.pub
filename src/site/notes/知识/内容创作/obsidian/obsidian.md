@@ -15,10 +15,13 @@
 
 ## 仓库增强
 
-|                                   插件                                   | 主要功能  |     案例介绍      |
-| :--------------------------------------------------------------------: | :---: | :-----------: |
-|     [obsidian-home](https://github.com/mirnovov/obsidian-homepage)     | 仓库首页  |    定义仓库首页     |
-|          [obsidian-iconic](https://github.com/gfxholo/iconic)          | 目录图标  | [[知识/内容创作/obsidian/ob-iconic\|ob-iconic]] |
+|                                     插件                                      | 主要功能 |     案例介绍      |
+| :-------------------------------------------------------------------------: | :--: | :-----------: |
+|       [obsidian-home](https://github.com/mirnovov/obsidian-homepage)        | 仓库首页 |    定义仓库首页     |
+|            [obsidian-iconic](https://github.com/gfxholo/iconic)             | 目录图标 | [[知识/内容创作/obsidian/ob-iconic\|ob-iconic]] |
+|    [obsidian-filecolor](https://github.com/ecustic/obsidian-file-color)     | 彩色目录 |       -       |
+| [novel-word-count](https://github.com/isaaclyman/novel-word-count-obsidian) | 字数统计 |       -       |
+| [obsidian-beautitab](https://github.com/andrewmcgivery/obsidian-beautitab)  | 新标签页 |       -       |
 
 ## 功能增强
 
@@ -32,13 +35,14 @@
 
 ## Markdown文本
 
-|                                   插件                                    |    主要功能    |      案例介绍       |
-| :---------------------------------------------------------------------: | :--------: | :-------------: |
-| [obsidian-markdown](https://github.com/PKM-er/obsidian-editing-toolbar) | markdown编辑 | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
-|      [obsidian-linter](https://github.com/platers/obsidian-linter)      |    语法校正    | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
-| [obsidian-toc](https://github.com/PKM-er/obsidian-floating-toc-plugin)  |     目录     | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
-|                                    -                                    |     提示     | [[知识/内容创作/obsidian/ob-callout\|ob-callout]]  |
-|                                    -                                    |     链接     |   [[知识/内容创作/obsidian/ob-link\|ob-link]]   |
+|                                       插件                                       |    主要功能    |      案例介绍       |
+| :----------------------------------------------------------------------------: | :--------: | :-------------: |
+|    [obsidian-markdown](https://github.com/PKM-er/obsidian-editing-toolbar)     | markdown编辑 | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
+|         [obsidian-linter](https://github.com/platers/obsidian-linter)          |    语法校正    | [[知识/内容创作/obsidian/ob-markdown\|ob-markdown]] |
+|                                       -                                        |     提示     | [[知识/内容创作/obsidian/ob-callout\|ob-callout]]  |
+|                                       -                                        |     链接     |   [[知识/内容创作/obsidian/ob-link\|ob-link]]   |
+| [obsidian-quiet-outline](https://github.com/guopenghui/obsidian-quiet-outline) |     大纲     |        -        |
+|      [better-word-count](https://github.com/lukeleppan/better-word-count)      |    字数统计    |        -        |
 
 ## 公式符号
 
@@ -52,14 +56,17 @@
 
 ## 图形展示
 
-|                                       插件                                       |  主要功能   |          案例介绍           |
-| :----------------------------------------------------------------------------: | :-----: | :---------------------: |
-| [obsidian-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas)  |   白板    |            略            |
-| [obsidian-excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) |   草绘图   | [[知识/内容创作/obsidian/ob-excalidraw\|ob-excalidraw]] |
-|      [obsidian-drawio](https://github.com/zapthedingbat/drawio-obsidian)       | 流程图、架构图 |   [[知识/内容创作/obsidian/ob-drawio\|ob-drawio]]   |
-|          [obsidian-kroki](https://github.com/gregzuro/obsidian-kroki)          |  图形集萃   |   [[知识/内容创作/obsidian/ob-kroki\|ob-kroki]]    |
-|       [obsidian-pseudo](https://github.com/ytliu74/obsidian-pseudocode)        |   伪代码   |   [[知识/内容创作/obsidian/ob-pseudo\|ob-pseudo]]   |
-|      [obsidian-abc](https://github.com/abcjs-music/obsidian-plugin-abcjs)      |   五线谱   |    [[知识/内容创作/obsidian/ob-abc\|ob-abc]]     |
+|                                       插件                                       | 主要功能 |       案例介绍        |
+| :----------------------------------------------------------------------------: | :--: | :---------------: |
+| [obsidian-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas)  |  白板  |         略         |
+| [obsidian-excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) | 草绘图  | [[知识/内容创作/obsidian/ob-excalidraw\|ob-excalidraw]] |
+|       [obsidian-drawio](https://github.com/somesanity/draw-io-obsidian)        | 流程图  |   [[知识/内容创作/obsidian/ob-drawio\|ob-drawio]]   |
+|          [obsidian-kroki](https://github.com/gregzuro/obsidian-kroki)          |  集萃  |   [[知识/内容创作/obsidian/ob-kroki\|ob-kroki]]    |
+
+|                                  插件                                  | 主要功能 |    案例介绍    |
+| :------------------------------------------------------------------: | :--: | :--------: |
+| [obsidian-abc](https://github.com/abcjs-music/obsidian-plugin-abcjs) | 五线谱  | [[知识/内容创作/obsidian/ob-abc\|ob-abc]] |
+| [obsidian-pseudo](https://github.com/ytliu74/obsidian-pseudocode) | 伪代码 | [[知识/内容创作/obsidian/ob-pseudo\|ob-pseudo]] |
 
 ## 时间管理
 
@@ -74,18 +81,19 @@
 
 ## 数据可视化
 
-|                                        插件                                        | 主要功能  |        案例介绍         |
-| :------------------------------------------------------------------------------: | :---: | :-----------------: |
-|      [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)      | 数据视图  |          略          |
+|                                        插件                                        | 主要功能  |     案例介绍      |
+| :------------------------------------------------------------------------------: | :---: | :-----------: |
+|      [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)      | 数据视图  |       略       |
 |           [obsidian-charts](https://github.com/phibr0/obsidian-charts)           | 数据可视化 | [[知识/内容创作/obsidian/ob-charts\|ob-charts]] |
-| [obsidian-contribution](https://github.com/vran-dev/obsidian-contribution-graph) | 活跃热力图 |          略          |
+| [obsidian-contribution](https://github.com/vran-dev/obsidian-contribution-graph) | 活跃热力图 |       略       |
 
 ## 内容形式
 
-|                                  插件                                  | 主要功能 |        案例介绍         |
-| :------------------------------------------------------------------: | :--: | :-----------------: |
-| [obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) | 旁注笔记 |          略          |
-|                              幻灯片（核心插件）                               | 幻灯片  | [[知识/内容创作/obsidian/ob-slides\|ob-slides]] |
+|                                  插件                                  | 主要功能  |     案例介绍      |
+| :------------------------------------------------------------------: | :---: | :-----------: |
+| [obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) | 旁注笔记  |       略       |
+|                              幻灯片（核心插件）                               |  幻灯片  | [[知识/内容创作/obsidian/ob-slides\|ob-slides]] |
+|         [obsidian-jupymd](https://github.com/d-eniz/jupymd)          | ipynb |               |
 
 ## 导出笔记
 
